@@ -18,6 +18,6 @@ Requirements:-
              Boost Python
              
  P.S. Download the Dlib predicator (.dat file) from this link http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 . 
-      This project is done for educational purpose and refrence is taken from http://www.paulvangent.com/2016/08/05/emotion-recognition-         using-facial-landmarks/
+      This project is done for educational purpose and refrence is taken from http://www.paulvangent.com/2016/08/05/emotion-recognition-using-facial-landmarks/
  
              
